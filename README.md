@@ -1,4 +1,4 @@
-# Dream Bucket List
+# Dream Bucket List - MotionCut Project
 
 ## Overview
 This project is a **Dream Bucket List** web page built with HTML and CSS. It displays a list of personal goals and dreams with cute icons and interactive hover effects. Completed items are visually marked with a strikethrough and faded styling. The design is clean, modern, and responsive for all device sizes.
